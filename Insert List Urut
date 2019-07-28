@@ -1,0 +1,23 @@
+list = [1,3,2,6,4,8,5,9,13,11,10]
+
+
+
+(print("List Awal")
+
+print(list)
+
+
+
+print("Menambahkan Data List dengan Insert")
+
+list.insert(7,33)
+
+print(list)
+
+
+
+print("Mengurutkan List")
+
+list.sort()
+
+print(list)
